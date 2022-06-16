@@ -1,0 +1,13 @@
+.imagenes {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: gray;
+
+}
+
+.imagen {
+    width: 300px;
+    border: 1px solid black;
+}
+
+
